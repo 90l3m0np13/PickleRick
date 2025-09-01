@@ -1,4 +1,4 @@
-# **Explotación de Máquina Pickle Rick (TryHackMe)**
+# **Explotación de Máquina Pickle Rick
 
 ![Nivel: Fácil](https://img.shields.io/badge/Nivel-Fácil-green) ![Tema: Web Exploitation](https://img.shields.io/badge/Tema-Web%20Exploitation-blue)
 
